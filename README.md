@@ -1,1 +1,1 @@
-# Practica_mineria
+# Practica 2- Mineria de Datos 
